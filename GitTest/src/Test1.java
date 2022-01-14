@@ -5,6 +5,7 @@ public class Test1 {
 		System.out.println("첫 번째 커밋!!!");
 		System.out.println("두 번째 커밋!!!");
 		System.out.println("세번째 커밋!!!");
+		System.out.println("임정환 커밋!!!");
 	}
 
 }
