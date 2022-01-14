@@ -9,6 +9,7 @@ public class somi {
 		}
 		System.out.println(sum);
 		System.out.println(i);
+		System.out.println(sum+i);
 
 	}
 
